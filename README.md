@@ -1,4 +1,4 @@
-# Industrial Surface Crack Detection using CNN
+#  Surface Crack Detection using CNN
 
 ## 📌 Project Description
 
