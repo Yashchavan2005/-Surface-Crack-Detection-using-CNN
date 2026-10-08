@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+MarvellousCNNProject/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python environment files
+.env
+
+# TensorFlow / Keras generated files
+*.h5
+
+# Logs
+*.log
